@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello Ji, Namaste! 👋🙏
 
-<!--
-**Ashjha75/Ashjha75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ashish Kumar Jha, a web developer from India. I specialize in building applications using HTML, CSS, JavaScript/TypeScript, and the MERN/MEAN stack.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML/CSS
+- JavaScript/TypeScript
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- Angular
+- Currently learning Next.js and AWS Cloud Computing
+
+## 🌱 I'm currently learning
+
+I'm currently focusing on improving my skills in Next.js and AWS Cloud Computing. I believe in lifelong learning and am always excited to learn new technologies.
+
+## 📫 How to reach me
+
+You can reach me at [your-email@example.com](mailto:your-email@example.com). I'm always open to new opportunities and collaborations.
+
+## 🚀 Some of my main projects
+
+(Here you can list some of your main projects with links to the live version and the source code)
+
+- Project 1
+- Project 2
+- Project 3
+
+---
+
+⭐️ From [Ashish Kumar Jha](https://github.com/[Your GitHub username])
