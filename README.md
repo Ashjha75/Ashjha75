@@ -6,6 +6,7 @@ I'm Ashish Kumar Jha, a web developer from India. I specialize in building appli
 
 - HTML/CSS
 - JavaScript/TypeScript
+- Java
 - MongoDB
 - Express.js
 - React.js
@@ -13,3 +14,5 @@ I'm Ashish Kumar Jha, a web developer from India. I specialize in building appli
 - Node.js
 - Angular
 - Currently learning Next.js and AWS Cloud Computing
+- Spring
+
