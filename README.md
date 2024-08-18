@@ -24,4 +24,6 @@ I am dedicated to continuous learning and professional growth, currently explori
 If you’re interested in collaborating or discussing potential projects, feel free to reach out. Let’s create something amazing together!
 
 
-A skilled developer from India 🇮🇳
+<div style="display:flex; justify-content:start;align-items:center">A skilled developer from India <img src="assets/flag.png" alt="Indian Flag" style=" margin-left:20px" width="30" /></div>
+
+
