@@ -8,8 +8,8 @@ I’m **Ashish Kumar Jha**, a passionate **MEAN/MERN Developer** and **Frontend 
 
 - **Frontend Development:** HTML, CSS, JavaScript, TypeScript, React.js, React Native, Angular
 - **Backend Development:** Node.js, Express.js, Java, Spring
-- **Databases:** MongoDB
-- **Currently Learning:** Next.js, AWS Cloud Computing
+- **Databases:** MongoDB,MySql
+- **Currently Learning:** Spring Boot, AWS Cloud Computing
 
 ---
 
@@ -19,7 +19,9 @@ At Novoinvent Software, I focus on designing and implementing innovative web sol
 - **Scalability:** Architecting solutions that can grow with increasing user demands and data volumes.
 - **User Experience:** Developing engaging and accessible interfaces that enhance user satisfaction.
 
-I am dedicated to continuous learning and professional growth, currently exploring Next.js and AWS Cloud Computing to stay at the forefront of industry trends.
+I am dedicated to continuous learning and professional growth, currently exploring Spring Boot and AWS Cloud Computing to stay at the forefront of industry trends.
 
 If you’re interested in collaborating or discussing potential projects, feel free to reach out. Let’s create something amazing together!
 
+
+A skilled developer from India 🇮🇳
