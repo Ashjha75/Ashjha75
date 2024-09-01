@@ -1,4 +1,4 @@
-### Hello! Namaste! 👋🙏
+### Hello! नमस्ते! 👋🙏
 
 I’m **Ashish Kumar Jha**, a passionate **MEAN/MERN Developer** and **Frontend Engineer** at **Novoinvent Software**. With a strong foundation in crafting scalable and responsive web applications, I specialize in utilizing JavaScript frameworks to deliver seamless user experiences and high-performance solutions.
 
