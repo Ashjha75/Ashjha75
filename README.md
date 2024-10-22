@@ -53,12 +53,12 @@ If you’re looking for someone who’s dedicated to quality, efficiency, and in
 
 ## Projects
 
-**Nav Finder Backend**  [Link](https://github.com/RDGems/Nav-Finder-Backend)
+**Nav Finder Backend**  ([Link](https://github.com/RDGems/Nav-Finder-Backend))
 *JavaScript, TypeScript, Node.js, Express.js, MongoDB, AWS, OAuth*
 - Developed a backend system for a travel platform focused on streamlining logistics and item transportation.
 - Deployed on AWS, integrated MongoDB for data management, and used OAuth for secure user authentication.
 
-**Spring Commerce**  [Link](https://github.com/Ashjha75/spring-commerce)
+**Spring Commerce**  ([Link](https://github.com/Ashjha75/spring-commerce))
 *Java 17, Spring Boot 3.3, JPA, Hibernate, MySQL, Docker, Spring Security*
 - Built an eCommerce backend with user authentication, product management, order processing, and secure payment integration using Spring Boot and Spring Security.
 - Focused on creating a simple, scalable architecture to support growing business needs.
@@ -88,6 +88,6 @@ If you’re looking for someone who’s dedicated to quality, efficiency, and in
 
 ---
 
-<div style="display:flex; justify-content:start;align-items:center">A skilled developer from India <img src="assets/flag.png" alt="Indian Flag" style=" margin-left:20px" width="30" /></div>
+<div style="display:flex; justify-content:start;align-items:center;margin-top:20px">A skilled developer from India <img src="assets/flag.png" alt="Indian Flag" style=" margin-left:20px" width="30" /></div>
 
 ---
