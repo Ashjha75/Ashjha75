@@ -88,7 +88,7 @@ If you’re looking for someone who’s dedicated to quality, efficiency, and in
 
 ---
 
-### A skilled developer from India <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/flag.png" alt="Indian Flag" width="30" style="margin-bottom:-8px" />
+### A skilled developer from India <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/flag.png" alt="Indian Flag" width="30" style="margin-bottom:-22px" />
 
 
 ---
