@@ -91,7 +91,7 @@ to collaborate and bring new ideas to life!
 
 ## Connect with me:
 
-| **Links**           | ![MyOctate](https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/octocat-.png) |
+| **Links**           | <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/octocat-.png" alt="MyOctate" width="100" /> |
 |---------------------|-------------------------------------------------------------------------------------------|
 | **Twitter:**        | <a href="https://x.com/Ashish5Jha"> @Ashish5Jha</a>                                       
 | **GitHub:**<br>     | <a href="https://github.com/Ashjha75"> @Ashjha75</a>                                      
