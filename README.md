@@ -1,6 +1,6 @@
 ### Hello! नमस्ते! 👋🙏
 
-I’m **Ashish Kumar Jha**, a passionate **MEAN/MERN Developer** and **Frontend Engineer** at **Novoinvent Software**. What drives me is a deep love for building user-friendly, performant applications that solve real-world problems. Whether it's crafting a sleek frontend experience or ensuring the backend runs seamlessly, I enjoy the challenge of creating scalable and robust systems.
+I’m **Ashish Kumar Jha**, Driven by a passion for innovation,  Software Developer at Novoinvent Software, where I specialize in building seamless, high-performance web applications. Whether designing smooth frontends with modern JavaScript frameworks or creating efficient backends with Spring Boot, I’m all about delivering impactful, scalable solutions. I don’t just write code—I craft experiences that are clean, intuitive, and built for growth. Let’s turn ideas into reality with technology that works flawlessly.
 
 ---
 
