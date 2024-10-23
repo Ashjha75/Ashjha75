@@ -79,7 +79,7 @@ If you’re looking for someone who’s dedicated to quality, efficiency, and in
 
 - **Twitter:** [@Ashish5Jha](https://x.com/Ashish5Jha)
 - **GitHub:** [@Ashjha75](https://github.com/Ashjha75)
-- **LinkedIn:** [ashish5jha](www.linkedin.com/in/ashish5jha)
+- **LinkedIn:** [@ashish5jha](https://www.linkedin.com/in/ashish5jha)
 - **Email:** [Gmail](mailto:network.ashishjha@gmail.com)
 - **Website:** [Portfolio](https://ashish5jha.github.io/portfolio)
 
