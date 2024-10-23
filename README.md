@@ -1,4 +1,4 @@
-### Hello! नमस्ते! 👋🙏
+### Hello! नमस्ते! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Indian Flag" width="30" style="margin-bottom:-12px" />🙏
 
 I’m **Ashish Kumar Jha**, Driven by a passion for innovation,  Software Developer at Novoinvent Software, where I specialize in building seamless, high-performance web applications. Whether designing smooth frontends with modern JavaScript frameworks or creating efficient backends with Spring Boot, I’m all about delivering impactful, scalable solutions. I don’t just write code—I craft experiences that are clean, intuitive, and built for growth. Let’s turn ideas into reality with technology that works flawlessly.
 
@@ -68,6 +68,8 @@ If you’re looking for someone who’s dedicated to quality, efficiency, and in
 
 ---
 
+
+
 ## Leadership
 
 - Led a team of 4 in final year university project, managing timelines, task distribution, and presenting the project to faculty.
@@ -75,20 +77,28 @@ If you’re looking for someone who’s dedicated to quality, efficiency, and in
 
 ---
 
-**Connect with me:**
+## Connect with me:
 
-- **Twitter:** [@Ashish5Jha](https://x.com/Ashish5Jha)
-- **GitHub:** [@Ashjha75](https://github.com/Ashjha75)
-- **LinkedIn:** [@ashish5jha](https://www.linkedin.com/in/ashish5jha)
-- **Email:** [Gmail](mailto:network.ashishjha@gmail.com)
-- **Website:** [Portfolio](https://ashish5jha.github.io/portfolio)
+<div style="display: flex; align-items: center; margin-left:40px">
+    <div style="flex: 1;">
+        <strong>Twitter:</strong> <a href="https://x.com/Ashish5Jha"> @Ashish5Jha</a> <br>
+        <strong>GitHub:</strong> <a href="https://github.com/Ashjha75"> @Ashjha75</a> <br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ashish5jha"> @ashish5jha</a> <br>
+        <strong>Email:</strong> <a href="mailto:network.ashishjha@gmail.com">Gmail</a> <br>
+        <strong>Website:</strong> <a href="https://ashish5jha.github.io/portfolio">Portfolio</a> <br>
+    </div>
+    <a href="https://github.com/Ashjha75">
+        <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/octocat-.png" alt="MyOctate" width="220" />
+    </a>
+</div>
 
 ## 📄 **My Resume:**
 [![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readme)](https://ashish5jha.github.io/portfolio/assets/resume.pdf)
 
----
 
-### A skilled developer from India <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/flag.png" alt="Indian Flag" width="30" style="margin-bottom:-22px" />
+
+
+### A skilled developer from India <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/flag.png" alt="Indian Flag" width="22"  />
 
 
 ---
