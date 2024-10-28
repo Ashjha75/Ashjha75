@@ -91,14 +91,15 @@ to collaborate and bring new ideas to life!
 
 ## Connect with me:
 
-| **Links**           | <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/octocat-.png" alt="MyOctate" width="125" /> |
+| **Links**           | <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/octocat-.png" alt="MyOctate" width="145" /> |
 |---------------------|-------------------------------------------------------------------------------------------|
 | **Twitter:**        | <a href="https://x.com/Ashish5Jha"> @Ashish5Jha</a>                                       
-| **GitHub:**<br>     | <a href="https://github.com/Ashjha75"> @Ashjha75</a>                                      
-| **LinkedIn:**  <br> | <a href="https://www.linkedin.com/in/ashish5jha"> @ashish5jha</a>
-| **Notion Blog:**  <br> | <a href="(https://hypnotic-amphibian-c6e.notion.site/Welcome-to-my-blog-12c986bf282a8009b022c7744e1c9a33)"> @ashish5jha</a> 
-| **Email:**  <br>    | <a href="mailto:network.ashishjha@gmail.com">Gmail</a>                                    
-| **Website:** <br>   | <a href="https://ashish5jha.github.io/portfolio">Portfolio</a>                            
+| **GitHub:**         | <a href="https://github.com/Ashjha75"> @Ashjha75</a>                                      
+| **LinkedIn:**       | <a href="https://www.linkedin.com/in/ashish5jha"> @ashish5jha</a>                        
+| **Notion Blog:**    | <a href="https://hypnotic-amphibian-c6e.notion.site/Welcome-to-my-blog-12c986bf282a8009b022c7744e1c9a33"> @ashish5jha</a> 
+| **Email:**          | <a href="mailto:network.ashishjha@gmail.com">Gmail</a>                                    
+| **Website:**        | <a href="https://ashish5jha.github.io/portfolio">Portfolio</a>
+                
 
 ## 📄 **My Resume:**
 
