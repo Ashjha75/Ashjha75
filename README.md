@@ -7,7 +7,7 @@ I’m **Ashish Kumar Jha**, Driven by a passion for innovation, Software Develop
 
 **My expertise includes:**
 
-- **Frontend Development:** HTML, CSS, JavaScript, TypeScript, React.js, React Native, Angular
+- **Frontend Development:** HTML, CSS, JavaScript, TypeScript, React.js, Angular
 - **Backend Development:** Node.js, Express.js, Java, Spring Boot
 - **Databases:** MongoDB, MySQL
 - **Currently Learning:** Spring Boot, AWS Cloud Computing
