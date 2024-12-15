@@ -37,7 +37,7 @@ to collaborate and bring new ideas to life!
 
 ## Technical Skills
 
-- **Languages:** Java, JavaScript, TypeScript, SQL, Node.js
+- **Languages:** Java, JavaScript, TypeScript, SQL, (Nodejs as runtime!)
 - **Web Development Frameworks:** Spring Boot, Hibernate, Spring JPA, Express, React, Angular
 - **Databases & DevOps:** MongoDB, MySQL, Docker, Git, Jenkins
 
