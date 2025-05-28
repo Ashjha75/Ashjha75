@@ -1,6 +1,6 @@
 ### Hello! नमस्ते! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Indian Flag" width="30" style="margin-bottom:-12px" />🙏
 
-I’m **Ashish Kumar Jha**, Driven by a passion for innovation, Software Developer at [Novoinvent Software](https://www.novoinvent.com/), where I specialize in building seamless, high-performance web applications. Whether designing smooth frontends with modern JavaScript frameworks or creating efficient backends with Spring Boot, I’m all about delivering impactful, scalable solutions. I don’t just write code—I craft experiences that are clean, intuitive, and built for growth. Let’s turn ideas into reality with technology that works flawlessly.
+I’m Ashish Kumar Jha, a Software Developer at Novoinvent Software, passionate about building seamless, high-performance web applications. My expertise spans both frontend design with modern JavaScript frameworks like Angular and efficient backend development with Spring Boot. I don’t just write code—I craft experiences that are clean, intuitive, and built for growth, always aiming to deliver impactful, scalable solutions. Let’s turn ideas into reality with technology that works flawlessly.
 
 
 ---
