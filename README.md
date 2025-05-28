@@ -30,7 +30,7 @@ to collaborate and bring new ideas to life!
 ## Education
 
 - **Bachelor of Technology in Computer Science**  
-  R.D. Engineering College, Duhai, Uttar Pradesh (Sep 2020 - May 2024)  
+  R.D. Engineering College, Duhai, Uttar Pradesh (june 2020 - May 2024)  
   CGPA: 7.85/10
 
 ---
