@@ -6,7 +6,7 @@ I’m **Ashish Kumar Jha**, a **Software Developer** at [Novoinvent Software](ht
 
 ### My Expertise
 
-* **Frontend Development:** HTML, CSS, JavaScript, TypeScript, Angular
+* **Frontend Development:** HTML, CSS, JavaScript, TypeScript, Angular,Jsp
 * **Backend Development:** Java, Spring Boot
 * **Databases & ORM:** MySQL, Hibernate, Spring Data JPA
 * **Currently Learning:** Spring Boot, AWS Cloud Computing
