@@ -55,15 +55,17 @@ CGPA: 7.85/10
 
 ## Projects
 
-**Nav Finder Backend** ([Link](https://github.com/RDGems/Nav-Finder-Backend)) | *JavaScript, TypeScript, Node.js, Express.js, MongoDB, AWS, OAuth*
-
-* Developed a backend system for a travel platform focused on streamlining logistics and item transportation.
-* Deployed on **AWS**, integrated **MongoDB** for data management, and used **OAuth** for secure user authentication.
-
 **Spring Commerce** ([Link](https://github.com/Ashjha75/spring-commerce)) | *Java 17, Spring Boot 3.3, JPA, Hibernate, MySQL, Docker, Spring Security*
 
 * Built an eCommerce backend with user authentication, product management, order processing, and secure payment integration using **Spring Boot and Spring Security**.
 * Focused on creating a simple, scalable architecture to support growing business needs.
+
+**CrawlForge** ([Link](https://github.com/Ashjha75/CrawlForge)) | *Java 17, Spring Boot, Hibernate, JPA, MySQL, HTML Parser, Multithreading*
+
+* Developed a **web crawler and analyzer** platform that allows users to initiate crawl sessions, track progress, and analyze web content such as keywords, links, and meta data.
+* Implemented **user authentication, role-based access, session management**, and page-level data storage using Hibernate and relational mapping.
+* Designed a flexible, extensible data model with support for **crawl sessions, pages, keywords, and links**; focused on scalability and future features like broken link reporting and sitemap generation.
+
 
 🔍 `Explore more of my work` at [GitHub Repositories](https://github.com/Ashjha75?tab=repositories)
 
