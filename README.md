@@ -87,7 +87,7 @@ CGPA: 7.85/10
 | **LinkedIn:** | <a href="https://www.linkedin.com/in/ashish5jha"> @ashish5jha</a> |
 | **Blog:** | <a href="https://ashjha75.github.io/MyDocs"> My docs</a> |
 | **Email:** | <a href="mailto:network.ashishjha@gmail.com">Gmail</a> |
-| **Website:** | <a href="https://ashish5jha.github.io/portfolio">Portfolio</a> |
+| **Website:** | <a href="https://ashjha75.github.io/portfolio-web/">Portfolio</a> |
 
 ## 📄 **My Resume:**
 
