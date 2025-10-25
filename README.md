@@ -91,7 +91,7 @@ CGPA: 7.85/10
 
 ## 📄 **My Resume:**
 
-[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readme)](https://ashish5jha.github.io/portfolio/assets/resume.pdf)
+[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readme)](https://ashjha75.github.io/portfolio-web/resume.pdf)
 
 ### A skilled developer from India <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/flag.png" alt="Indian Flag" width="22" />
 
