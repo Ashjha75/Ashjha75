@@ -78,16 +78,30 @@ CGPA: 7.85/10
 
 ---
 
+
 ## Connect with me:
 
-| **Links** | <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/octocat-.png" alt="MyOctate" width="145" /> |
-|---|---|
-| **Twitter:** | <a href="https://x.com/Ashish5Jha"> @Ashish5Jha</a> |
-| **GitHub:** | <a href="https://github.com/Ashjha75"> @Ashjha75</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/ashish5jha"> @ashish5jha</a> |
-| **Blog:** | <a href="https://ashjha75.github.io/MyDocs"> My docs</a> |
-| **Email:** | <a href="mailto:network.ashishjha@gmail.com">Gmail</a> |
-| **Website:** | <a href="https://ashjha75.github.io/portfolio-web/">Portfolio</a> |
+<p align="center">
+  <a href="https://x.com/Ashish5Jha">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/Ashjha75">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashish5jha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://ashjha75.github.io/MyDocs">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:network.ashishjha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://ashjha75.github.io/portfolio-web/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
 
 ## 📄 **My Resume:**
 
