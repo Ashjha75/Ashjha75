@@ -1,110 +1,87 @@
-### Hello! नमस्ते! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Indian Flag" width="30" style="margin-bottom:-12px"/>
-
-I'm **Ashish Kumar Jha**, a **Software Developer** at [Novoinvent Software](https://www.novoinvent.com/), passionate about building seamless, high-performance web applications. My expertise spans frontend and backend technologies, with a strong focus on scalable architecture and clean code.
-
----
-
-### My Expertise
-
-* **Frontend Development:** HTML, CSS, JavaScript, TypeScript, Angular, JSP
-* **Backend Development:** Java, Spring Boot
-* **Databases & ORM:** MySQL, PostgreSQL, Hibernate, Spring Data JPA
-* **Currently Learning:** Spring Boot, AWS Cloud Computing
-
----
-
-At Novoinvent Software, I've had the privilege of working on both frontend and backend systems, ensuring they deliver not just in terms of performance but also in providing a seamless user experience.
-
-What excites me most is the challenge of bringing ideas to life through code. I enjoy simplifying complex problems and making applications run faster and smoother. That's why I'm continuously learning and adopting best practices in software development.
-
-If you're looking for someone dedicated to quality, efficiency, and innovative solutions, let's connect. I'd love to collaborate and bring new ideas to life!
-
----
-
-## Education
-
-**Bachelor of Technology in Computer Science**
-R.D. Engineering College, Duhai, Uttar Pradesh (June 2020 - May 2024)
-CGPA: 7.85/10
-
----
-
-## Technical Skills
-
-* **Languages:** Java, JavaScript, TypeScript, SQL (Node.js as runtime!)
-* **Web Development Frameworks:** Spring Boot, Hibernate, Spring JPA, Express, React, Angular
-* **Databases & DevOps:** MongoDB, MySQL, PostgreSQL, Docker, Git, Jenkins
-
----
-
-## Experience
-
-**Software Engineer** – Novoinvent Software
-*June 2024 – Present* | Hybrid
-
-* Led full-stack development projects using **Java, Spring Boot, and MySQL** to build scalable backend systems.
-* Developed modular, reusable components, improving efficiency and boosting performance by **15%**.
-
-**Software Intern** – Novoinvent Software
-*March 2023 – May 2024* | Remote
-
-* Contributed to dynamic web applications using **Angular and Node.js**, accelerating feature releases by **25%**.
-* Collaborated with senior developers to debug and refactor code, significantly improving user experience.
-
----
-
-## Projects
-
-**Multi-tenant SaaS App** ([Link](https://github.com/Ashjha75/Multi-tenant-saas-app)) | *Java 21, Spring Boot 4.0.6, Spring Security, JWT, PostgreSQL, Docker*
-
-* Scalable multi-tenant platform with **dynamic tenant provisioning** and **schema isolation**.
-* **JWT authentication** for secure access and **enterprise-grade backend architecture**.
-
-**Ticketing System** ([Link](https://github.com/Ashjha75/ticketing-system)) | *Java, Spring Boot, Redis, PostgreSQL, Angular, Maven*
-
-* High-concurrency ticket booking backend with **safe inventory handling** and **caching strategies**.
-* Real-world backend design patterns for managing **concurrent bookings** and **preventing overselling**.
-
-🔍 `Explore more of my work` at [GitHub Repositories](https://github.com/Ashjha75?tab=repositories)
-
----
-
-## Leadership
-
-* Led a team of 4 in a final year university project, managing timelines, task distribution, and presenting the project to faculty.
-* Led the internal tools development team at Novoinvent, enhancing operational workflows with Angular and Node.js.
-
----
-
-
-## Connect with me:
-
+<h3 align="center">Ashish Kumar Jha</h3>
 <p align="center">
-  <a href="https://x.com/Ashish5Jha">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/Ashjha75">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashish5jha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ashjha75.github.io/MyDocs">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="mailto:network.ashishjha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://ashjha75.github.io/portfolio-web/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  Backend engineer — Java · Spring Boot · PostgreSQL · AWS<br/>
+  <sub>Software Engineer at <a href="https://www.novoinvent.com/">Novoinvent Software</a> · Delhi, India</sub>
 </p>
 
-
-## 📄 **My Resume:**
-
-[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readme)](https://ashjha75.github.io/portfolio-web/resume.pdf)
-
-### A skilled developer from India <img src="https://raw.githubusercontent.com/Ashjha75/Ashjha75/main/assets/flag.png" alt="Indian Flag" width="22" />
+<p align="center">
+  <a href="https://ashjha75.github.io/portfolio-web"><img src="https://img.shields.io/badge/Portfolio-0C0C0E?style=for-the-badge&logo=google-chrome&logoColor=EC9440" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ashish5jha"><img src="https://img.shields.io/badge/LinkedIn-0C0C0E?style=for-the-badge&logo=linkedin&logoColor=EC9440" alt="LinkedIn"/></a>
+  <a href="https://x.com/ashish5jha"><img src="https://img.shields.io/badge/X-0C0C0E?style=for-the-badge&logo=x&logoColor=EC9440" alt="X"/></a>
+  <a href="https://ashjha75.github.io/MyDocs"><img src="https://img.shields.io/badge/Blog-0C0C0E?style=for-the-badge&logo=readme&logoColor=EC9440" alt="Blog"/></a>
+  <a href="mailto:network.ashishjha@gmail.com"><img src="https://img.shields.io/badge/Email-0C0C0E?style=for-the-badge&logo=gmail&logoColor=EC9440" alt="Email"/></a>
+  <a href="https://ashjha75.github.io/portfolio-web/resume.pdf"><img src="https://img.shields.io/badge/Résumé-EC9440?style=for-the-badge&logo=readme&logoColor=0C0C0E" alt="Resume"/></a>
+</p>
 
 ---
+
+I build backend systems that hold up under load. Two years at Novoinvent Software,
+working in Java and Spring Boot on the parts that break when traffic arrives —
+multi-tenancy, concurrency control, and the data layer.
+
+Most of what is pinned below exists because I wanted to understand something
+properly. The task scheduler is there because I wanted to know how one actually
+behaves at the thread level, not because I needed a scheduler.
+
+---
+
+### Stack, by layer
+
+| Layer | What I use |
+|---|---|
+| **Core** | Java 21 · Spring Boot · Spring Security · Spring Data JPA · Concurrency · REST / OpenAPI |
+| **Data** | PostgreSQL · MySQL · Redis · Flyway · MongoDB |
+| **Infrastructure** | Docker · AWS (EC2, S3, Lambda, ECS, EKS, RDS) · GitHub Actions · Jenkins · Linux |
+| **Interfaces & AI** | Next.js · TypeScript · Node.js · Express · LangChain · LLM agent tooling |
+
+Intermediate across all of it — comfortable in production, still learning the deep end.
+
+---
+
+### Experience
+
+**Software Engineer** — Novoinvent Software · *Jun 2024 – Present* · Hybrid
+- Build and maintain Spring Boot services backed by MySQL, owning features from schema through to endpoint.
+- Improved application performance by **15%** by extracting reusable components and reworking hot paths.
+- Deploy to production on a regular cadence, keeping downtime minimal.
+
+**Software Intern** — Novoinvent Software · *Mar 2023 – May 2024* · Remote
+- Built web application features with Angular and Node.js alongside senior engineers.
+- Implemented REST APIs for data retrieval and manipulation, accelerating feature releases by **25%**.
+- Worked day to day in Linux shell scripting and Git.
+
+---
+
+### Selected work
+
+**[Multi-tenant SaaS Platform](https://github.com/Ashjha75/Multi-tenant-saas-app)** — *Java 21 · Spring Boot · PostgreSQL · Flyway · Docker*
+One deployment serving many tenants, with each tenant's data isolated at the schema
+level rather than by a WHERE clause. Tenants are provisioned at runtime — schema
+created and migrated on demand, no redeploy.
+
+**[Multi-threaded Task Scheduler](https://github.com/Ashjha75/Multi-threaded-task-scheduler)** — *Java · ThreadPoolExecutor · PriorityBlockingQueue*
+Holds thousands of tasks across a worker pool without locks in the hot path. State
+moves only through compare-and-set, so no task runs twice; failures retry with
+exponential backoff instead of blocking a worker.
+
+**[Ticketing System](https://github.com/Ashjha75/ticketing-system)** — *Spring Boot · PostgreSQL · Redis*
+Ticket booking where the hard part is contention. Inventory is decremented under a
+concurrency guard so the system cannot oversell, with Redis caching hot event reads.
+
+**[Code To Context](https://github.com/Ashjha75/CodeToContext)** — *JavaScript · LLM tooling*
+Turns a local codebase into structured, token-aware context for an LLM — without the
+source ever leaving the machine.
+
+**[Express REST API](https://github.com/Ashjha75/Express-APi-s-Learning)** — *Express · TypeScript · MongoDB*
+A typed Express service covering the parts that matter in production: JWT auth,
+role-based access, validation, and a single error-handling layer.
+
+[Browse the rest →](https://github.com/Ashjha75?tab=repositories)
+
+---
+
+### Also
+
+- **Education** — B.Tech, Computer Science · R.D. Engineering College, Duhai, UP · 2020–2024 · CGPA 7.85/10
+- **Leadership** — Led the internal tools team at Novoinvent; led a team of 4 on a final-year project end to end.
+- **Currently** — building an LLM agent harness, for the same reason as the scheduler.
